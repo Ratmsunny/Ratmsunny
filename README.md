@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Ratmsunny (Mohit Sharma)
+- 👋 Hi, I’m Mohit Sharma, a full stack developer from Birmingham.
 - 👀 I’m interested in music, politics and coding!
-- 🌱 I’m currently learning how to code, and will be joining the School of Code shortly. 
-- 💞️ I’m looking to collaborate on ...soon to be updated with some snazzy collab ideas. 
+- 🌱 School of Code Alumni.   
 - 📫 How to reach me ... feel free to drop me an email on m.sharma@hotmail.co.uk
 
 <!---
